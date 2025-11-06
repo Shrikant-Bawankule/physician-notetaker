@@ -1,0 +1,6 @@
+streamlit
+spacy==3.7.5
+en-core-web-sm==3.7.1
+transformers==4.57.1
+torch==2.4.1+cpu
+nltk
